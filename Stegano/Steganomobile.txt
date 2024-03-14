@@ -1,0 +1,16 @@
+222-33-555-555-7-44-666-66-33
+
+après reflexion :c'est juste un message écrit sue un ancien téléphone (pas un smartphone)
+
+donc:
+222->c (on tape 3 fois on arrive à la lettre c) (cela est équivalent pour tout le reste)
+33-> e
+555->l
+555->l
+7->p
+44->h
+666->o
+66->n
+33->e
+
+flag: cellphone

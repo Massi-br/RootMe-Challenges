@@ -1,0 +1,9 @@
+
+après execution de exiftool j'ai eu cette indication dans les meta-données:
+
+Thumbnail Image                 : (Binary data 41506 bytes, use -b option to extract)
+
+j'ai testé plusieurs trucs mais ca n'a pas marché puis j'ai essayé de trouver un tool 
+onligne et j'ai trouvé dans le site decode:EXIF Thumbnail
+
+j'ai télécharger l'image et le flag est : B33r1sG00d!
