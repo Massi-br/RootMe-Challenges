@@ -1,5 +1,5 @@
 
-expliacation:
+explication:
     il faut ecraser le contenu de la variable check avec deadbeef 
     pour cela on execute cette commande :
 

@@ -1,0 +1,58 @@
+Le challenge nous donne un text chiffré et nous donne aussi un indice qui est l'utilisationn du chiffrement devignère ainsi que la substitution 
+polyalphabetique , je me susi déja confronté a detel défis donc je me suis directement orienté vers le site : https://www.boxentriq.com
+
+
+et choisi la bonne méthode (je vous laisse faire) 
+ainsi la clé est: thementor
+le texte déchiffré est le suivant:
+
+the hacker manifesto
+
+un autre s'est fait prendre aujourd'hui, c'est partout dans les journaux. "scandale: un adolescent arrete pour crime informatique,
+"arrestation d'un 'hacker' apres le piratage d'une banque"...
+
+satanes gosses, tous les memes.
+
+mais avez vous, dans votre psychologie en trois piece et votre profil
+technocratique de 1950, un jour pense a regarder le monde derriere les yeux d'un hacker? 
+ne vous etes vous jamais demande ce qui l'avait fait agir, quelles forces l'avaient modele?
+je suis un hacker, entrez dans mon monde...
+le mien est un monde qui commence avec l'ecole... je suis plus astucieux que la plupart des autres enfants, les conneries qu'ils m'apprennent me lassent...
+
+je suis au college ou au lycee. j'ai ecoute les professeurs expliquer pour la quinzieme fois comment reduire une fraction. 
+je l'ai compris. "non mme dubois, je ne peux pas montrer mon travail. je l'ai fait dans ma tete"
+satane gosses. il l'a certainement copie. tous les memes.
+
+j'ai fait une decouverte aujourd'hui. j'ai trouve un ordinateur.
+attends une minute, c'est cool. ca fait ce que je veux. si ça fait une erreur, c'est parce que je me suis plante.
+pas parce qu'il ne m'aime pas...
+ni parce qu'il se sent menace par moi...
+ni parce qu'il pense que je suis petit filoux...
+ni parce qu'il n'aime pas enseigner et qu'il ne devrait pas etre la...
+satanes gosses. tout ce qu'il fait c'est jouer. tous les memes.
+
+et alors c'est arrive... une porte s'est ouverte sur le monde...
+se precipitant a travers la ligne telephonique comme de l'heroine dans les veines d'un accro, une impulsion electronique est envoyee,
+on recherche un refuge a l'incompetence quotidienne... un serveur est trouve.
+
+vous vous repetez que nous sommes tous pareils... 
+on a ete nourri a la petite cuillere de bouffe pour bebe a l'ecole quand on avait faim d'un steak...
+les fragments de viande que l'on nous a laisse etaient pre-maches et sans goût.
+on a ete domine par des sadiques ou ignore par des apathiques.
+les seuls qui avaient des choses a nous apprendre trouverent des eleves volontaires, mais ceux ci sont comme des gouttes dans le dessert.
+
+c'est notre monde maintenant... le monde de l'electron et de l'interrupteur, la beaute du baud. nous utilisons un service deja existant, sans payer ce qui pourrait etre bon marche si ce n'etait pas la propriete de gloutons profiteurs, et vous nous appelez criminels.
+nous explorons... et vous nous appelez criminels.
+nous recherchons la connaissance... et vous nous appelez criminels. 
+nous existons sans couleur de peau, sans nationalite, sans dogme religieux... et vous nous appelez criminels.
+vous construisez des bombes atomiques, vous financez les guerres,
+vous ne punissez pas les patrons de la mafia aux riches avocats,
+vous assassinez et trichez, vous manipulez et nous mentez en essayant de nous faire croire que c'est pour notre propre bien etre, et nous sommes encore des criminels.
+
+oui, je suis un criminel. mon crime est celui de la curiosite.
+mon crime est celui de juger les gens par ce qu'ils pensent et dise, pas selon leur apparence.
+mon crime est de vous surpasser, quelque chose que vous ne me pardonnerez jamais.
+
+je suis un hacker, et ceci est mon manifeste.
+vous pouvez arreter cet individu, mais vous ne pouvez pas tous nous arreter...
+apres tout, nous sommes tous les memes.
